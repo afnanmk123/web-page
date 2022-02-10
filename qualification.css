@@ -1,0 +1,10 @@
+body{margin: 0;}
+
+.top-left{
+    position: absolute;
+    left: 16px;
+    top: 8px;
+    font-size: 40px;
+    color: rgba(68, 54, 148, 0.877);
+}
+.list{color: black;}

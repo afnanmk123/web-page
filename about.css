@@ -1,0 +1,14 @@
+.body{margin: 0;}
+.top-right{
+          position: absolute;
+          left: 16px;
+          top: 8px;
+          font-size: 900px;
+          color: rgba(70, 61, 124, 0.877);
+}
+.container{
+     position: relative;
+     width: 100px;
+     height: 100vh;
+     background-image: add.jpg;
+}
